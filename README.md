@@ -1,16 +1,16 @@
-#eKart
-Complete lite version of Flipkart and Amazon
+## eKart
+*Complete lite version of Flipkart and Amazon*
 
-#KeyPoints 
+## KeyPoints 
 
-*Add product to cart
-*Remove product
-*Payment service using Paypal
-*Login/Register Service
+* Add product to cart
+* Remove product
+* Payment service using Paypal
+* Login/Register Service
 
 
-#Needed 
+## Needed 
 
-*No admin panel
-*UI improvement
+* No admin panel
+* UI improvement
 
